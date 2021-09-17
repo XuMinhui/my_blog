@@ -1,10 +1,10 @@
 {
-  "name": "afternoon-grocery-store",
+  "name": "yitian_blog",
   "version": "1.0.0",
   "description": "recoluan's blog",
   "main": "index.js",
-  "repository": "http://recoluan.gitlab.io",
-  "author": "reco_luan",
+  "repository": "https://gitee.com/homie_xu/my-blog",
+  "author": "homie_xu",
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
