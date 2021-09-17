@@ -34,7 +34,7 @@ module.exports = [{
   icon: 'reco-message',
   items: [{
     text: '码云',
-    link: 'https://gitee.com/yitian_2018',
+    link: 'https://gitee.com/homie_xu',
     icon: 'reco-mayun'
   },
   {
