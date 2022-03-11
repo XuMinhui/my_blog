@@ -1,1 +1,3 @@
 .VSCodeCounter
+.vscode
+node_modules/
