@@ -7,7 +7,7 @@
   "author": "homie_xu",
   "license": "MIT",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vuepress build docs && vuepress dev docs",
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   },

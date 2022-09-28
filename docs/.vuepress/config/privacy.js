@@ -1,4 +1,4 @@
 module.exports = {
-    appId: process.env.VALINE_APP_ID,// valine appId
-    appKey: process.env.VALINT_APP_KEY, // valine appKey
+    appId: 'G1is9uwK3GLQGDBXtRUoHovE-gzGzoHsz',// valine appId
+    appKey: 'KL2dbRzxYkKJvfiFwNqAr30x', // valine appKey
 }

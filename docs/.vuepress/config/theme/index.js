@@ -32,7 +32,7 @@ module.exports = Object.assign({}, themeReco, {
     title: '阮一峰的网络日志',
     desc: '前端巨佬，我辈楷模，著作《ES6入门教程》，其他教程也写的贼棒，每一篇都是精华',
     email: 'yifeng.ruan@gmail.com',
-    link: 'http://www.ruanyifeng.com/blog/'  
+    link: 'http://www.ruanyifeng.com/blog/',
   },
   {
     title: '午后南杂',
@@ -45,6 +45,12 @@ module.exports = Object.assign({}, themeReco, {
     desc: '挚友的一个博客站，分享有关网络、运维等方面知识',
     email: 'jianzking@qq.com',
     link: 'https://www.useenet.cn'
+  },
+  {
+    title: 'JIPA233の小窝',
+    desc: '寒蝉黎明之时，便是重生之日。',
+    email: '-',
+    link: 'https://www.jipa.work'
   },
   {
     title: '懒人一个',
