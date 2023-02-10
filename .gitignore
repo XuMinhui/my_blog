@@ -1,6 +1,6 @@
 .VSCodeCounter
 .vscode
 node_modules/
+public/
 yarn.lock
 .env
-public/
