@@ -9,14 +9,15 @@
   "scripts": {
     "start": "vuepress build docs && vuepress dev docs",
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "cross-env NODE_OPTIONS=--openssl-legacy-provider vuepress build docs"
   },
   "dependencies": {
-    "vuepress": "1.5.2",
-    "vuepress-theme-reco": "1.5.3",
     "@vuepress/plugin-medium-zoom": "1.5.2",
+    "@vuepress/plugin-pwa": "1.5.2",
+    "cross-env": "^7.0.3",
+    "vuepress": "1.5.2",
     "vuepress-plugin-flowchart": "1.4.3",
-    "@vuepress/plugin-pwa": "1.5.2"
+    "vuepress-theme-reco": "1.5.3"
   },
   "devDependencies": {
     "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5"
