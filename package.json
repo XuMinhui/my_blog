@@ -22,6 +22,6 @@
     "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5"
   },
   "engines": {
-    "node": ">=16"
+    "node": ">=14"
   }
 }
